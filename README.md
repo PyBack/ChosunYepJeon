@@ -1,14 +1,14 @@
-![ChosunYepJeon]
+![ChosunYepJeon](/images/chosunyepjeon.png)
 
 **Do you work at a digital asset exchange or wallet provider?** 
 
 Please [contact us](mailto:support@chosunyepjeon.com). We can help guide your integration.
 
-# What is Ripple?
-Ripple is a network of computers which use the [chosun consensus algorithm](https://www.youtube.com/watch?v=pj1QVb1vlC0) to atomically settle and record
-transactions on a secure distributed database, the Ripple Consensus Ledger
-(RCL). Because of its distributed nature, the RCL offers transaction immutability
-without a central operator. The RCL contains a built-in currency exchange and its
+# What is ChosunYepJeon?
+ChosunYepJeon is a network of 객주 which use the [chosun consensus algorithm]() to atomically settle and record
+transactions on a secure distributed database(객주창고), the ChosunYepJeon Consensus Ledger
+(YJCL). Because of its distributed nature, the YJCL offers transaction immutability
+without a central operator. The YJCL contains a built-in currency exchange and its
 path-finding algorithm finds competitive exchange rates across order books
 and currency pairs.
 
