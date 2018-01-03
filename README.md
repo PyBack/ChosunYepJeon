@@ -1,4 +1,4 @@
-![ChosunYepJeon](/images/chosunyepjeon.png)
+![ChosunYepJeon](/image/chosunyepjeon.png)
 
 **Do you work at a digital asset exchange or wallet provider?** 
 
